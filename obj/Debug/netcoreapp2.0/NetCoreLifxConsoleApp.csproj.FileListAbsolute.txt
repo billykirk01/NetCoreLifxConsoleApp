@@ -9,3 +9,14 @@
 /Users/williamkirk/Desktop/NetCoreLifxConsoleApp/obj/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.dll
 /Users/williamkirk/Desktop/NetCoreLifxConsoleApp/obj/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.pdb
 /Users/williamkirk/Desktop/NetCoreLifxConsoleApp/obj/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.csprojResolveAssemblyReference.cache
+/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/bin/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.deps.json
+/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/bin/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.runtimeconfig.json
+/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/bin/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.runtimeconfig.dev.json
+/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/bin/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.dll
+/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/bin/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.pdb
+/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/obj/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.csprojResolveAssemblyReference.cache
+/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/obj/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.csproj.CoreCompileInputs.cache
+/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/obj/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.AssemblyInfoInputs.cache
+/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/obj/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.AssemblyInfo.cs
+/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/obj/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.dll
+/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/obj/Debug/netcoreapp2.0/NetCoreLifxConsoleApp.pdb
