@@ -15,6 +15,8 @@ namespace LightConsoleApp
 
             var mainMenu = new Menu(home);
 
+            Console.ReadLine();
+
         }
     }
 }
