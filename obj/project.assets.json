@@ -3647,17 +3647,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/williamkirk/Desktop/NetCoreLifxConsoleApp/NetCoreLifxConsoleApp.csproj",
+      "projectUniqueName": "/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/NetCoreLifxConsoleApp.csproj",
       "projectName": "NetCoreLifxConsoleApp",
-      "projectPath": "/Users/williamkirk/Desktop/NetCoreLifxConsoleApp/NetCoreLifxConsoleApp.csproj",
+      "projectPath": "/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/NetCoreLifxConsoleApp.csproj",
       "packagesPath": "/Users/williamkirk/.nuget/packages/",
-      "outputPath": "/Users/williamkirk/Desktop/NetCoreLifxConsoleApp/obj",
+      "outputPath": "/Users/williamkirk/Documents/Development Projects/C# Projects/NetCoreLifxConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/williamkirk/.config/NuGet/NuGet.Config"
+        "/Users/williamkirk/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -3680,18 +3680,17 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "10.0.3"
+            "version": "[10.0.3, )"
           },
           "RestSharp": {
             "target": "Package",
-            "version": "106.2.1"
+            "version": "[106.2.1, )"
           }
         },
         "imports": [
